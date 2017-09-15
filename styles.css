@@ -1,0 +1,22 @@
+body {
+  background-image: url('https://pre00.deviantart.net/6e4f/th/pre/f/2014/008/f/d/road_night_version_2_by_arsenixc-d71cz2f.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#container {
+  font-size: 15px;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.video {
+  display: inline-block;
+  text-align: center;
+}
+
